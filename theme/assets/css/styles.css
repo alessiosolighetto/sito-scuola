@@ -2494,3 +2494,11 @@ h4.comment-title {
   margin-right: 8px;
   width: auto;
 }
+
+#logo-centrale {
+  width: 100px;
+}
+
+#fatti-un-giro{
+  border-radius: 20px;
+}
